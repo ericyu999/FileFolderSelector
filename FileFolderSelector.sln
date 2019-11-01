@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFolderSelector", "FileFolderSelector\FileFolderSelector.csproj", "{A80ADF0D-4C29-45A6-AB2E-4E1264A21047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80ADF0D-4C29-45A6-AB2E-4E1264A21047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80ADF0D-4C29-45A6-AB2E-4E1264A21047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80ADF0D-4C29-45A6-AB2E-4E1264A21047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80ADF0D-4C29-45A6-AB2E-4E1264A21047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3857AB8-6CAD-4EBD-8A05-C47EFD3D292C}
+	EndGlobalSection
+EndGlobal
